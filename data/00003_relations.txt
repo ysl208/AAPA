@@ -1,0 +1,8 @@
+object-on-left,left,output_subassembly0
+object-on-right,left,case1
+object-on-right,left,case0
+object-above,left,output_subassembly0
+object-centered-vertically,left,case0
+object-centered-vertically,left,case1
+hand-empty,left
+attached,output_subassembly0,case0

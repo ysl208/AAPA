@@ -1,0 +1,10 @@
+object-on-left,left,output_subassembly0
+object-on-right,left,case1
+object-on-right,left,case0
+object-above,left,output_subassembly0
+object-below,left,oil_plug0
+object-centered-horizontally,left,oil_plug0
+object-centered-vertically,left,case0
+object-centered-vertically,left,case1
+object-within-servo-range,left,oil_plug0
+hand-empty,left

@@ -1,0 +1,14 @@
+breather_plug,breather_plug1,651.5,433,0,33,32
+breather_plug,breather_plug2,782,380.5,0,20,27
+casing_base,casing_base1,682,368.5,0,232,175
+casing_base,casing_base2,187,369.5,0,246,163
+output_hub_cover,output_hub_cover1,181,355,0,158,60
+input_hub_cover,input_hub_cover1,232,316,0,66,48
+casing_bolt,casing_bolt1,1157.5,653,0,159,52
+casing_bolt,casing_bolt2,1203.5,678.5,0,133,55
+casing_nut,casing_nut1,770,628.5,0,54,35
+input_subassembly,input_subassembly1,276.5,533.5,0,79,215
+output_subassembly,output_subassembly1,112.5,524.5,0,205,211
+transfer_subassembly,transfer_subassembly1,400,584.5,0,122,133
+hand,hand1,551.5,235.5,0,119,99
+hand,hand2,727.5,215,0,105,120

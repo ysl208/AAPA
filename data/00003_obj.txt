@@ -1,0 +1,17 @@
+hand,left,*status,open,*conf,1,*psi,1.6821524339148894E-4,*phi,1.7033738111682756E-4,*y,0.08634850490297065,*theta,-5.310337282732053E-4,*agent,me,*x,0.07056213673888918,*height,0.01,*toolangle,0.5623380849438329,*width,0.01,*z,0.504316614569876
+table,table1,*conf,1,*y,0,*x,0,*height,10,*width,10,*z,0
+small_hub_cover,oil_plug0,*conf,1,*area,0.00858,*y,0.907,*x,0.619,*height,0.13,*width,0.066,*z,0.211993
+case,case1,*conf,1,*area,0.09565799999999999,*y,0.55,*x,0.9445,*height,0.894,*width,0.107,*z,0.347046
+output,output_subassembly0,*conf,1,*area,0.025172,*y,0.1015,*x,0.071,*height,0.203,*width,0.124,*z,0.40865
+case,case0,*conf,1,*area,0.178362,*y,0.489,*x,0.8765,*height,0.734,*width,0.243,*z,0.490089
+agent,me,*type,ur5
+object,output_subassembly0,*x,0.071,*y,0.1015,*z,0,*phi,0,*theta,0,*psi,0,*type,output,*area,0.025172,*coupling,nil
+object,case1,*x,0.9445,*y,0.55,*z,0,*phi,0,*theta,0,*psi,0,*type,case,*area,0.09565799999999999,*coupling,nil
+object,case0,*x,0.8765,*y,0.489,*z,0,*phi,0,*theta,0,*psi,0,*type,case,*area,0.178362,*coupling,nil
+object-on-left,left,output_subassembly0,*diff,0.47900000000000004
+object-on-right,left,case1,*diff,0.2945
+object-on-right,left,case0,*diff,0.22649999999999992
+object-above,left,output_subassembly0,*diff,0.36849999999999994
+object-centered-vertically,left,case0
+object-centered-vertically,left,case1
+hand-empty,left
