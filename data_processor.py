@@ -10,7 +10,7 @@ class DataProcessor:
     OBJ_IDS_TO_EXCLUDE   = ['left','table']
 
     # Reads in data from a csv file and processes it in the required format
-    def self.__init__(self, path):
+    def __init__(self, path):
         self._PATH = path
 
     def get_file_path(self, path, frame_no, digits, suffix, file_ending):
