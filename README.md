@@ -4,7 +4,7 @@ This is an implementation of the paper [Maintaining a Reliable World Model using
 
 AAPA is a rule-based approach that considers inductive biases to perform high-level reasoning over the results from low-level object detection and improves the robot's perceptual capability for complex tasks. It can handle object detection errors, out of view, and more complex scenarios such as invisible displacements by considering agent actions.
 
-~NOTE: This repo still under development.~
+A video of this work can be seen [here](https://www.youtube.com/watch?v=3qCkzQS9xk4).
 
 ## Requirements
 You will need to run an object detector such as as Faster R-CNN that produces a list of bounding boxes from a 2D image.
